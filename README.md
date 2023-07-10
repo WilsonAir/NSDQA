@@ -2,6 +2,10 @@
 
 This is the demo code for paper "No-reference Shadow Detection Quality Assessment via Reference Learning and Multi-Mode Exploring".
 
+## Method Framework
+
+![这是图片](data/framework.png "Magic Gardens")
+
 ## Usage:
 
 ### 1. Prepare Pytorch Environment
